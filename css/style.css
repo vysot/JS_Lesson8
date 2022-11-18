@@ -1,0 +1,17 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.btn{
+    width: 400px;
+    height: 100px;
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    background-color: violet;
+    border: 3px solid  violet;
+    border-radius: 5px;   
+   
+}
